@@ -1,0 +1,21 @@
+ ==================================================================
+       0 rows exported at 2014-05-05 17:07:28, size 0 MB.
+ 1000000 rows exported at 2014-05-05 17:10:25, size 232 MB.
+ 2000000 rows exported at 2014-05-05 17:13:33, size 480 MB.
+ 3000000 rows exported at 2014-05-05 17:17:12, size 768 MB.
+ 4000000 rows exported at 2014-05-05 17:20:56, size 1059 MB.
+ 5000000 rows exported at 2014-05-05 17:24:54, size 1359 MB.
+ 6000000 rows exported at 2014-05-05 17:29:01, size 1655 MB.
+ 6840505 rows exported at 2014-05-05 17:32:06, size 1905 MB.
+   output file zzz.txt closed at 6840505 rows, size 1905 MB.
+         
+ ==================================================================
+       0 rows exported at 2014-06-25 16:37:17, size 0 MB.
+ 1000000 rows exported at 2014-06-25 16:37:32, size 28 MB.
+ 2000000 rows exported at 2014-06-25 16:37:43, size 60 MB.
+ 3000000 rows exported at 2014-06-25 16:37:52, size 92 MB.
+ 4000000 rows exported at 2014-06-25 16:38:01, size 124 MB.
+ 4852072 rows exported at 2014-06-25 16:38:09, size 153 MB.
+ output file wangpeng.txt closed at 4852072 rows, size 153 MB.
+
+ 
